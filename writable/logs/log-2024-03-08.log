@@ -1,0 +1,449 @@
+CRITICAL - 2024-03-08 03:12:13 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\dashboard\index.php on line 6.
+ 1 APPPATH\Views\dashboard\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 03:12:35 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\dashboard\index.php on line 6.
+ 1 APPPATH\Views\dashboard\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 03:13:00 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\dashboard\index.php on line 6.
+ 1 APPPATH\Views\dashboard\index.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 6)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 03:13:29 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\dashboard\index.php on line 32.
+ 1 APPPATH\Views\dashboard\index.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 32)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 03:13:55 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\dashboard\index.php on line 51.
+ 1 APPPATH\Views\dashboard\index.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 51)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 03:14:13 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\dashboard\index.php on line 66.
+ 1 APPPATH\Views\dashboard\index.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 66)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 03:14:31 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\dashboard\index.php on line 72.
+ 1 APPPATH\Views\dashboard\index.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 72)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 03:14:44 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\dashboard\index.php on line 97.
+ 1 APPPATH\Views\dashboard\index.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 97)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 03:16:06 --> ErrorException: Undefined variable $hitung_admin
+in APPPATH\Views\dashboard\index.php on line 368.
+ 1 APPPATH\Views\dashboard\index.php(368): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $hitung_admin', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 368)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 03:16:28 --> ErrorException: Undefined variable $hitung_admin
+in APPPATH\Views\dashboard\index.php on line 368.
+ 1 APPPATH\Views\dashboard\index.php(368): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $hitung_admin', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 368)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 03:16:46 --> ErrorException: Undefined variable $hitung_admin
+in APPPATH\Views\dashboard\index.php on line 368.
+ 1 APPPATH\Views\dashboard\index.php(368): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $hitung_admin', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php', 368)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\index.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/index', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('dashboard/index')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 04:16:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard/data_bulanan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard/data_bulanan.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/data_bulanan', [], true)
+ 3 APPPATH\Controllers\Home.php(21): view('dashboard/data_bulanan')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_bulanan()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 04:17:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard/data_bulanan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard/data_bulanan.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/data_bulanan', [], true)
+ 3 APPPATH\Controllers\Home.php(21): view('dashboard/data_bulanan')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_bulanan()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 04:38:52 --> BadMethodCallException: Call to undefined method App\Models\Peserta_event::getData_peserta
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Home.php(36): CodeIgniter\Model->__call('getData_peserta', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 04:39:23 --> BadMethodCallException: Call to undefined method App\Models\Peserta_event::getData_peserta
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Home.php(36): CodeIgniter\Model->__call('getData_peserta', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 04:41:48 --> BadMethodCallException: Call to undefined method App\Models\Transaksi_qris::getData_bulanan
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Home.php(50): CodeIgniter\Model->__call('getData_bulanan', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_bulanan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 04:42:49 --> BadMethodCallException: Call to undefined method App\Models\Transaksi_qris::getData_bulanan
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Home.php(50): CodeIgniter\Model->__call('getData_bulanan', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_bulanan()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 04:49:35 --> BadMethodCallException: Call to undefined method App\Models\Transaksi_qris::getData_transaksi
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Model->__call('getData_transaksi', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_transaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 04:49:42 --> BadMethodCallException: Call to undefined method App\Models\Transaksi_qris::getData_transaksi
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Model->__call('getData_transaksi', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_transaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 04:51:39 --> BadMethodCallException: Call to undefined method App\Models\Peserta_event::getData_peserta
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Home.php(36): CodeIgniter\Model->__call('getData_peserta', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+ERROR - 2024-03-08 04:56:55 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\app\Models\Peserta_qris.php(18): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\app\Controllers\Home.php(36): App\Models\Peserta_qris->getData_peserta()
+#6 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+#7 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - ...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\app\Models\Peserta_qris.php(18): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\app\Controllers\Home.php(36): App\Models\Peserta_qris->getData_peserta()
+#5 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+#6 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - ...')
+#10 {main}
+CRITICAL - 2024-03-08 04:56:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `peserta_qris`
+JOIN `profil_peserta` ON `profil_peserta`.`nik` = `peserta_qris`.`nik`
+ORDER BY `peserta_qris`.`pemilik_qris` ASC', [], false)
+ 3 APPPATH\Models\Peserta_qris.php(18): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH\Controllers\Home.php(36): App\Models\Peserta_qris->getData_peserta()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+ERROR - 2024-03-08 04:57:30 --> Error connecting to the database: mysqli_sql_exception: Unknown database 'ci4ppkukm_jakarta' in D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', 'root', '', 'ci4ppkukm_jakar...', 3306, '', 0)
+#1 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\app\Models\Peserta_qris.php(18): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\app\Controllers\Home.php(36): App\Models\Peserta_qris->getData_peserta()
+#6 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+#7 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - ...')
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Unknown database 'ci4ppkukm_jakarta' in D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\app\Models\Peserta_qris.php(18): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\app\Controllers\Home.php(36): App\Models\Peserta_qris->getData_peserta()
+#5 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+#6 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\system\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - ...')
+#10 {main}
+CRITICAL - 2024-03-08 04:57:30 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'ci4ppkukm_jakarta'
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `peserta_qris`
+JOIN `profil_peserta` ON `profil_peserta`.`nik` = `peserta_qris`.`nik`
+ORDER BY `peserta_qris`.`pemilik_qris` ASC', [], false)
+ 3 APPPATH\Models\Peserta_qris.php(18): CodeIgniter\Database\BaseBuilder->get()
+ 4 APPPATH\Controllers\Home.php(36): App\Models\Peserta_qris->getData_peserta()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 04:58:42 --> ErrorException: Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-03-08 05:00:31 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Result::join()
+in APPPATH\Models\Peserta_qris.php on line 16.
+ 1 APPPATH\Controllers\Home.php(36): App\Models\Peserta_qris->getData_peserta()
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 05:00:33 --> Error: Call to undefined method CodeIgniter\Database\MySQLi\Result::join()
+in APPPATH\Models\Peserta_qris.php on line 16.
+ 1 APPPATH\Controllers\Home.php(36): App\Models\Peserta_qris->getData_peserta()
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 05:04:08 --> ErrorException: Maximum execution time of 60 seconds exceeded
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 306.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-03-08 05:07:24 --> ErrorException: Undefined array key "pemilik"
+in APPPATH\Views\dashboard\data_peserta.php on line 181.
+ 1 APPPATH\Views\dashboard\data_peserta.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pemilik"', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\data_peserta.php', 181)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\data_peserta.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/data_peserta', [], true)
+ 5 APPPATH\Controllers\Home.php(37): view('dashboard/data_peserta', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 06:02:34 --> BadMethodCallException: Call to undefined method App\Models\Transaksi_qris::getData_transaksi
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Model->__call('getData_transaksi', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_transaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 06:06:12 --> ErrorException: Undefined variable $datas
+in APPPATH\Views\dashboard\data_peserta.php on line 170.
+ 1 APPPATH\Views\dashboard\data_peserta.php(170): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datas', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\data_peserta.php', 170)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\data_peserta.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/data_peserta', [], true)
+ 5 APPPATH\Controllers\Home.php(37): view('dashboard/data_peserta')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 06:06:25 --> ErrorException: Undefined variable $datas
+in APPPATH\Views\dashboard\data_peserta.php on line 170.
+ 1 APPPATH\Views\dashboard\data_peserta.php(170): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datas', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\data_peserta.php', 170)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\data_peserta.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/data_peserta', [], true)
+ 5 APPPATH\Controllers\Home.php(37): view('dashboard/data_peserta')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 06:07:02 --> ErrorException: Undefined variable $datas
+in APPPATH\Views\dashboard\data_peserta.php on line 170.
+ 1 APPPATH\Views\dashboard\data_peserta.php(170): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datas', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\data_peserta.php', 170)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\data_peserta.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/data_peserta', [], true)
+ 5 APPPATH\Controllers\Home.php(37): view('dashboard/data_peserta')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 06:09:10 --> ErrorException: Undefined array key "jenis_kelamin"
+in APPPATH\Views\dashboard\data_peserta.php on line 184.
+ 1 APPPATH\Views\dashboard\data_peserta.php(184): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jenis_kelamin"', 'D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\data_peserta.php', 184)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Views\\dashboard\\data_peserta.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/data_peserta', [], true)
+ 5 APPPATH\Controllers\Home.php(37): view('dashboard/data_peserta', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_peserta()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 06:16:48 --> ParseError: syntax error, unexpected token "}"
+in APPPATH\Models\Peserta_qris.php on line 23.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Models\\Peserta_qris.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Peserta_qris')
+ 3 APPPATH\Controllers\Home.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Peserta_qris')
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 06:36:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard/januari.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard/januari.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/januari', [], true)
+ 3 APPPATH\Controllers\Home.php(49): view('dashboard/januari')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->januari()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 06:43:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "dashboard/data_bulan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard/data_bulan.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('dashboard/data_bulan', [], true)
+ 3 APPPATH\Controllers\Home.php(50): view('dashboard/data_bulan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->januari()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 06:55:48 --> BadMethodCallException: Call to undefined method App\Models\Transaksi_qris::getData_februari
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Home.php(58): CodeIgniter\Model->__call('getData_februari', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->februari()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 06:56:34 --> ParseError: Invalid numeric literal
+in APPPATH\Models\Transaksi_qris.php on line 17.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\app\\Models\\Transaksi_qris.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Transaksi_qris')
+ 3 APPPATH\Controllers\Home.php(19): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Transaksi_qris')
+ 4 SYSTEMPATH\CodeIgniter.php(913): App\Controllers\Home->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 07:07:40 --> BadMethodCallException: Call to undefined method App\Models\Transaksi_qris::getData_transaksi
+in SYSTEMPATH\Model.php on line 874.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Model->__call('getData_transaksi', [])
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->data_transaksi()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
+CRITICAL - 2024-03-08 07:27:30 --> ArgumentCountError: Too few arguments to function CodeIgniter\Database\BaseBuilder::where(), 0 passed in D:\0. MY OWN - IT DEVELOPMENT\SP - PPKUKM DKI JAKARTA\SP - PPKUKM - V2.0 - 001\app\Models\Peserta_qris.php on line 23 and at least 1 expected
+in SYSTEMPATH\Database\BaseBuilder.php on line 696.
+ 1 APPPATH\Models\Peserta_qris.php(23): CodeIgniter\Database\BaseBuilder->where()
+ 2 APPPATH\Controllers\Home.php(31): App\Models\Peserta_qris->sumData_peserta()
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\0. MY OWN - IT DEVELOPMENT\\SP - PPKUKM DKI JAKARTA\\SP - PPKUKM - V2.0 - 001\\public\\index.php')
